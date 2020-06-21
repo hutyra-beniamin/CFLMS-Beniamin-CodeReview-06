@@ -39,7 +39,7 @@ display(){
                     </div>
                     <div class="card-footer">
 				            <small class="text-muted">
-				                &#128356;Created:<br />
+				                &#128356;   Created:<br />
 				                ${this.created}
 				            </small>
 				        </div>
@@ -78,7 +78,7 @@ class Event extends Location {
                     </div>
                     <div class="card-footer">
 				            <small class="text-muted">
-				                &#128356;Created:<br />
+				                &#128356;   Created:<br />
 				                ${this.created}
 				            </small>
 				        </div>
@@ -116,7 +116,7 @@ class Restaurant extends Location {
                     </div>
                     <div class="card-footer">
 				            <small class="text-muted">
-				                &#128356;Created:<br />
+				                &#128356;   Created:<br />
 				                ${this.created}
 				            </small>
 				        </div>
